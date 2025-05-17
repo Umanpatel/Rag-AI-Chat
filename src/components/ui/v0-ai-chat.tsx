@@ -131,7 +131,6 @@ export function VercelV0Chat() {
                                 className="group p-2 hover:bg-neutral-800 rounded-lg transition-colors flex items-center gap-1"
                             >
                                 <FileUploadComponent/>
-                                
                             </button>
                         </div>
                         <div className="flex items-center gap-2">
